@@ -3,13 +3,9 @@ import "./Navbar.css";
 export default function Navbar() {
   return (
     <div>
-      {" "}
       <header>
         <a href="#" class="logo">
-          <img
-            src="https://github.com/m-hesam-moradian/portfolio-V2/blob/main/public/img/logos/logo-removebg-preview.png?raw=true"
-            alt=""
-          />
+          <img src="img/logos/logo-removebg-preview.png" alt="" />
         </a>
         <div class="bx bx-menu" id="menu-icon"></div>
         <ul class="navbar">

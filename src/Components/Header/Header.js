@@ -12,15 +12,12 @@ export default function Header() {
             moradian
           </h1>
           <h3>Front-end Developer</h3>
-          <a href="#contact" class="btn">
-            My Resume
+          <a href="pdf/Mohammad Hesam Moradian.pdf" class="btn">
+            download my CV
           </a>
         </div>
         <div class="home-img">
-          <img
-            src="https://github.com/m-hesam-moradian/portfolio-V2/blob/main/public/img/bg.png?raw=true"
-            alt=""
-          />
+          <img src="img/bg.png" alt="" />
         </div>
       </section>
     </div>
