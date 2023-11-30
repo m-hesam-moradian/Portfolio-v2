@@ -6,7 +6,10 @@ export default function Navbar() {
       {" "}
       <header>
         <a href="#" class="logo">
-          <img src="/img/logos/logo-removebg-preview.png" alt="" />
+          <img
+            src="https://github.com/m-hesam-moradian/portfolio-V2/blob/main/public/img/logos/logo-removebg-preview.png?raw=true"
+            alt=""
+          />
         </a>
         <div class="bx bx-menu" id="menu-icon"></div>
         <ul class="navbar">
