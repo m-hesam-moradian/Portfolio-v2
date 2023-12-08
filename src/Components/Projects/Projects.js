@@ -77,7 +77,7 @@ export default function Projects() {
                 <h6>Music Player</h6>
               </div>
               <div class="row-icon">
-                {/* <i class="bx bx-heart" style={"color: #ffffff"}></i> */}
+                <i class="bx bx-heart" ></i>
               </div>
             </div>
             <h3>Basic Music Player</h3>
