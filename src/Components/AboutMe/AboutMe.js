@@ -4,7 +4,7 @@ import React from 'react'
 export default function AboutMe() {
   return (
     <div>
-      {" "}
+  
       <section class="about" id="about">
         <div class="about-img">
           <img src="./portfolio-V2/img/about me 3.png" alt="" />
