@@ -17,7 +17,7 @@ export default function Header() {
           </a>
         </div>
         <div class="home-img">
-          <img src="img/bg.png" alt="" />
+          <img src="./portfolio-V2/img/bg.png" alt="" />
         </div>
       </section>
     </div>

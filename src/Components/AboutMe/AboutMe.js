@@ -7,7 +7,7 @@ export default function AboutMe() {
       {" "}
       <section class="about" id="about">
         <div class="about-img">
-          <img src="img/about me 3.png" alt="" />
+          <img src="./portfolio-V2/img/about me 3.png" alt="" />
         </div>
         <div class="about-text">
           <h2>about me</h2>

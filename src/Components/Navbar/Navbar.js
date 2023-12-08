@@ -5,7 +5,7 @@ export default function Navbar() {
     <div>
       <header>
         <a href="#" class="logo">
-          <img src="img/logos/logo-removebg-preview.png" alt="" />
+          <img src="./portfolio-V2/img/logos/logo-removebg-preview.png" alt="" />
         </a>
         <div class="bx bx-menu" id="menu-icon"></div>
         <ul class="navbar">
