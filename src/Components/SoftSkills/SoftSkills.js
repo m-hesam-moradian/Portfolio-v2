@@ -4,7 +4,6 @@ import React from 'react'
 export default function SoftSkills() {
   return (
     <div>
-      {" "}
       <section class="services" id="services">
         <div class="main-text">
           <h2>My Services</h2>
